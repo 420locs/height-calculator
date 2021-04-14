@@ -1,5 +1,5 @@
 ﻿
-namespace HighCount {
+namespace HeightCounter {
     partial class ProgramForm {
         /// <summary>
         /// Required designer variable.

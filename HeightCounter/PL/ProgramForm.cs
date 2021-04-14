@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using ValidateDataLibrary;
 
-namespace HighCount {
+namespace HeightCounter {
     public partial class ProgramForm : Form {
         public ProgramForm() {
             InitializeComponent();
