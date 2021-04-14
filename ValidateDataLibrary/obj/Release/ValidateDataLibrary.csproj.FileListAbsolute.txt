@@ -1,0 +1,6 @@
+C:\Users\sogor\source\repos\HeightCounter\ValidateDataLibrary\bin\Release\ValidateDataLibrary.dll
+C:\Users\sogor\source\repos\HeightCounter\ValidateDataLibrary\bin\Release\ValidateDataLibrary.pdb
+C:\Users\sogor\source\repos\HeightCounter\ValidateDataLibrary\obj\Release\ValidateDataLibrary.csprojAssemblyReference.cache
+C:\Users\sogor\source\repos\HeightCounter\ValidateDataLibrary\obj\Release\ValidateDataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sogor\source\repos\HeightCounter\ValidateDataLibrary\obj\Release\ValidateDataLibrary.dll
+C:\Users\sogor\source\repos\HeightCounter\ValidateDataLibrary\obj\Release\ValidateDataLibrary.pdb
